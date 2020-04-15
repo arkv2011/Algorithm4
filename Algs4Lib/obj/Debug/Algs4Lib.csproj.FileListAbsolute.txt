@@ -1,0 +1,5 @@
+D:\yshuai\vsprojs\Algorithm4\Algs4Lib\bin\Debug\Algs4Lib.dll
+D:\yshuai\vsprojs\Algorithm4\Algs4Lib\bin\Debug\Algs4Lib.pdb
+D:\yshuai\vsprojs\Algorithm4\Algs4Lib\obj\Debug\Algs4Lib.csproj.CoreCompileInputs.cache
+D:\yshuai\vsprojs\Algorithm4\Algs4Lib\obj\Debug\Algs4Lib.dll
+D:\yshuai\vsprojs\Algorithm4\Algs4Lib\obj\Debug\Algs4Lib.pdb

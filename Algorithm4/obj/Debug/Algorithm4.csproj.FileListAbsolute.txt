@@ -1,0 +1,10 @@
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\bin\Debug\Algorithm4.exe.config
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\bin\Debug\Algorithm4.exe
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\bin\Debug\Algorithm4.pdb
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\obj\Debug\Algorithm4.csprojAssemblyReference.cache
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\obj\Debug\Algorithm4.csproj.CoreCompileInputs.cache
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\obj\Debug\Algorithm4.exe
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\obj\Debug\Algorithm4.pdb
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\bin\Debug\Algs4Lib.dll
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\bin\Debug\Algs4Lib.pdb
+D:\yshuai\vsprojs\Algorithm4\Algorithm4\obj\Debug\Algorithm4.csproj.CopyComplete
