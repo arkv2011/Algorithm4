@@ -58,5 +58,23 @@ namespace Algs4Lib
         {
             return bernoulli(0.5);
         }
+
+        public static double goussian()
+        {
+            double r, x, y;
+            do 
+            {
+                x = uniform(-1, 1);
+                y = uniform(-1, 1);
+                r = x * x+  y * y;
+            }while(r>=1 || r==0);
+
+            return x * Math.Sqrt(-2 * Math.Log(r) / r);
+        }
+
+        public static double goussian(double mu, double sigma)
+        {
+            return mu + sigma * goussian();
+        }
     }
 }
