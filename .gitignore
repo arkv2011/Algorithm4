@@ -1,1 +1,3 @@
-./Algs4/obj/*
+.vs/*
+./Algs4Lib/bin
+./Algs4Lib/obj

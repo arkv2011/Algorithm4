@@ -23,7 +23,11 @@ namespace Algorithm4
 
         static void Main(string[] args)
         {
-            RandomTest();
+            //RandomTest();
+            //StdDraw.init();
+            //Console.WriteLine(333);
+            StdDraw.line(1, 2, 100, 340);
+            Console.WriteLine(333);
         }
     }
 }
