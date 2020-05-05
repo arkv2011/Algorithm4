@@ -13,7 +13,7 @@ namespace Algorithm4
         static void RandomTest()
         {
             int count = 0;
-            for(int i=0;i<10000;i++)
+            for (int i = 0; i < 10000; i++)
             {
                 if (StdRandom.bernoulli())
                     ++count;
@@ -23,10 +23,6 @@ namespace Algorithm4
 
         static void Main(string[] args)
         {
-            //RandomTest();
-            //StdDraw.init();
-            //Console.WriteLine(333);
-            StdDraw.line(1, 2, 100, 340);
             Console.WriteLine(333);
         }
     }
