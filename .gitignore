@@ -1,5 +1,7 @@
-./.vs
-./Algs4Lib/bin
-./Algs4Lib/obj
-./Algorithm4/bin
-./Algorithm4/obj
+.vs/
+Algs4Lib/bin/
+Algs4Lib/obj/
+Algorithm4/bin/
+Algorithm4/obj/
+Algs4Lib/Properties/
+Algorithm4/Properties/
